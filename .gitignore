@@ -1,0 +1,10 @@
+# Ignore everything
+/*
+
+# But not these files/folders
+!app.py
+!hypixel_minion_data.json
+!templates/
+!static/
+!Dockerfile
+!.gitignore 

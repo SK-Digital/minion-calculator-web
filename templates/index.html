@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hypixel SkyBlock Minion Calculator</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.4.1/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        body {
+            min-height: 100vh;
+            background: linear-gradient(135deg, #1a2a1d 0%, #2e6041 100%);
+            font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+            color: #e6ffe6;
+        }
+        .main-panel {
+            background: rgba(24,32,24,0.98);
+            border-radius: 18px;
+            box-shadow: 0 4px 32px #000a;
+            max-width: 700px;
+            margin: 40px auto;
+            padding: 2.5rem 2rem 2rem 2rem;
+        }
+        .minion-row {
+            display: flex;
+            align-items: center;
+            gap: 0.7rem;
+            margin-bottom: 0.7rem;
+        }
+        .minion-row select, .minion-row input {
+            background: #22382a;
+            color: #e6ffe6;
+            border: 1.5px solid #3fa06c;
+            border-radius: 6px;
+            padding: 0.3rem 0.7rem;
+            font-size: 1rem;
+        }
+        .minion-row .icon-img {
+            width: 38px;
+            height: 38px;
+            border-radius: 6px;
+            border: 1.5px solid #3fa06c;
+            background: #1a2a1d;
+            object-fit: contain;
+        }
+        .remove-btn {
+            background: #2e6041;
+            color: #fff;
+            border: none;
+            border-radius: 6px;
+            font-size: 1.2rem;
+            width: 32px;
+            height: 32px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background 0.2s;
+        }
+        .remove-btn:hover {
+            background: #3fa06c;
+            color: #1a2a1d;
+        }
+        .upgrade-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 1.2rem;
+        }
+        .upgrade-item {
+            display: flex;
+            align-items: center;
+            background: #22382a;
+            border: 1.5px solid #3fa06c;
+            border-radius: 6px;
+            padding: 0.2rem 0.7rem;
+            font-size: 0.98rem;
+            color: #e6ffe6;
+        }
+        .upgrade-item input[type=checkbox] {
+            accent-color: #3fa06c;
+            margin-right: 0.3rem;
+        }
+        .upgrade-item .icon-img {
+            width: 28px;
+            height: 28px;
+            margin-right: 0.3rem;
+        }
+        .input-row {
+            display: flex;
+            gap: 1.2rem;
+            margin-bottom: 1.2rem;
+        }
+        .action-btn {
+            background: linear-gradient(90deg, #3fa06c 0%, #2e6041 100%);
+            color: #fff;
+            border: none;
+            border-radius: 8px;
+            font-size: 1.1rem;
+            padding: 0.6rem 1.5rem;
+            margin-right: 1rem;
+            margin-top: 0.2rem;
+            transition: background 0.2s;
+        }
+        .action-btn:hover {
+            background: #3fa06c;
+            color: #1a2a1d;
+        }
+        .result-box {
+            background: #22382a;
+            border-radius: 10px;
+            padding: 1.2rem;
+            margin-top: 2rem;
+            font-size: 1.1rem;
+            color: #e6ffe6;
+            min-height: 2.5rem;
+        }
+        .search-input {
+            background: #22382a;
+            color: #e6ffe6;
+            border: 1.5px solid #3fa06c;
+            border-radius: 6px;
+            padding: 0.3rem 0.7rem;
+            font-size: 1rem;
+            width: 140px;
+        }
+    </style>
+</head>
+<body>
+<div class="main-panel">
+    <h1 class="text-2xl text-center mb-7 font-bold tracking-wide">Hypixel SkyBlock Minion Calculator</h1>
+    <form id="calc-form">
+        <div id="minion-sets"></div>
+        <button type="button" class="action-btn mb-4" id="add-minion-set">+ Add Minion Set</button>
+        <div class="upgrade-list" id="upgrade-list"></div>
+        <div class="input-row">
+            <div>
+                <label for="hours" class="block mb-1">Time (hours):</label>
+                <input type="number" id="hours" value="24" min="0.1" step="0.1" class="w-28">
+            </div>
+            <div>
+                <label for="amount-to-collect" class="block mb-1">Amount to Collect:</label>
+                <input type="text" id="amount-to-collect" value="0" class="w-40">
+            </div>
+        </div>
+        <div class="flex flex-row gap-4 mt-2">
+            <button type="submit" class="action-btn">Calculate Output</button>
+            <button type="button" class="action-btn" id="calc-hours-btn">Calculate Hours Needed</button>
+        </div>
+    </form>
+    <div id="result" class="result-box"></div>
+</div>
+<script id="minion-data" type="application/json">{{ minions|tojson }}</script>
+<script id="upgrade-data" type="application/json">{{ upgrades|tojson }}</script>
+<script>
+    const minionData = JSON.parse(document.getElementById('minion-data').textContent);
+    const upgradeData = JSON.parse(document.getElementById('upgrade-data').textContent);
+    let minionSetCount = 0;
+    function createMinionSetRow(idx) {
+        const row = document.createElement('div');
+        row.className = 'minion-row minion-set-row';
+        row.dataset.idx = idx;
+        row.innerHTML = `
+            <input type="text" class="search-input minion-search" placeholder="Search minion..." autocomplete="off">
+            <select class="minion-select"></select>
+            <img class="icon-img minion-icon" src="" alt="Minion Icon" onerror="this.onerror=null;this.src='https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg';">
+            <select class="tier-select"></select>
+            <input type="number" class="amount" value="1" min="1" style="width:60px;">
+            <button type="button" class="remove-btn">&minus;</button>
+        `;
+        // Populate minion dropdown
+        const minionSelect = row.querySelector('.minion-select');
+        Object.keys(minionData).forEach(m => {
+            const opt = document.createElement('option');
+            opt.value = m;
+            opt.textContent = m;
+            minionSelect.appendChild(opt);
+        });
+        // Search logic
+        const minionSearch = row.querySelector('.minion-search');
+        minionSearch.addEventListener('input', function() {
+            const val = minionSearch.value.toLowerCase();
+            for (let i = 0; i < minionSelect.options.length; i++) {
+                const opt = minionSelect.options[i];
+                opt.style.display = opt.value.toLowerCase().includes(val) ? '' : 'none';
+            }
+            for (let i = 0; i < minionSelect.options.length; i++) {
+                if (minionSelect.options[i].style.display !== 'none') {
+                    minionSelect.selectedIndex = i;
+                    minionSelect.dispatchEvent(new Event('change'));
+                    break;
+                }
+            }
+        });
+        // Icon and tier logic
+        const minionIcon = row.querySelector('.minion-icon');
+        minionSelect.addEventListener('change', function() {
+            const minion = minionSelect.value;
+            const icon = minionData[minion]?.icon;
+            minionIcon.src = icon ? `/img_proxy?url=${encodeURIComponent(icon)}` : 'https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg';
+            // Update tiers
+            const tierSelect = row.querySelector('.tier-select');
+            tierSelect.innerHTML = '';
+            (minionData[minion]?.tiers || []).forEach(function(tier) {
+                const opt = document.createElement('option');
+                opt.value = tier;
+                opt.textContent = tier;
+                tierSelect.appendChild(opt);
+            });
+        });
+        minionSelect.dispatchEvent(new Event('change'));
+        // Remove button
+        row.querySelector('.remove-btn').addEventListener('click', function() {
+            row.remove();
+        });
+        return row;
+    }
+    function addMinionSet() {
+        minionSetCount++;
+        const row = createMinionSetRow(minionSetCount);
+        document.getElementById('minion-sets').appendChild(row);
+    }
+    document.getElementById('add-minion-set').addEventListener('click', addMinionSet);
+    // Add initial set
+    addMinionSet();
+    // Add margin below the add button
+    document.getElementById('add-minion-set').classList.add('mb-6');
+    // Upgrades (single multi-select list with icons)
+    const upgradeListDiv = document.getElementById('upgrade-list');
+    upgradeListDiv.innerHTML = Object.entries(upgradeData).map(([upg, upgdata]) =>
+        `<label class="upgrade-item"><input type="checkbox" value="${upg}">${upgdata.icon ? `<img src='/img_proxy?url=${encodeURIComponent(upgdata.icon)}' class='icon-img' style='width:28px;height:28px;margin-right:2px;' alt='' onerror=\"this.onerror=null;this.src='https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg';\">` : ''}${upg}</label>`
+    ).join('');
+    // AJAX form submit for output
+    document.getElementById('calc-form').addEventListener('submit', async function(e) {
+        e.preventDefault();
+        const sets = Array.from(document.querySelectorAll('.minion-set-row')).map(row => {
+            return {
+                minion: row.querySelector('.minion-select').value,
+                tier: row.querySelector('.tier-select').value,
+                amount: row.querySelector('.amount').value
+            };
+        });
+        const upgrades = Array.from(document.querySelectorAll('#upgrade-list input[type=checkbox]:checked')).map(cb => cb.value);
+        const hours = document.getElementById('hours').value;
+        const resultDiv = document.getElementById('result');
+        resultDiv.textContent = 'Calculating...';
+        try {
+            const resp = await fetch('/calculate', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ sets: sets.map(s => ({...s, upgrades, hours })) })
+            });
+            const data = await resp.json();
+            if (data.success) {
+                resultDiv.innerHTML = data.results.map(r => `<b>${r.minion}</b>: ${r.output.toLocaleString()} ${r.resource} (Speed: ${r.speed_multiplier}x)`).join('<br>') + (data.total_output ? `<br><b>Total Output:</b> ${data.total_output.toLocaleString()}` : '');
+            } else {
+                resultDiv.textContent = 'Error: ' + data.error;
+            }
+        } catch (err) {
+            resultDiv.textContent = 'Error: ' + err;
+        }
+    });
+    // AJAX for hours needed
+    document.getElementById('calc-hours-btn').addEventListener('click', async function() {
+        const sets = Array.from(document.querySelectorAll('.minion-set-row')).map(row => {
+            return {
+                minion: row.querySelector('.minion-select').value,
+                tier: row.querySelector('.tier-select').value,
+                amount: row.querySelector('.amount').value
+            };
+        });
+        const upgrades = Array.from(document.querySelectorAll('#upgrade-list input[type=checkbox]:checked')).map(cb => cb.value);
+        const amountToCollect = document.getElementById('amount-to-collect').value;
+        const hours = document.getElementById('hours').value;
+        const resultDiv = document.getElementById('result');
+        resultDiv.textContent = 'Calculating...';
+        try {
+            const resp = await fetch('/calculate_hours', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ sets: sets.map(s => ({...s, upgrades, hours })), amount_to_collect: amountToCollect })
+            });
+            const data = await resp.json();
+            if (data.success) {
+                resultDiv.innerHTML = data.results.map(r => `<b>${r.minion}</b>: ${r.hours_needed} hours, Output/hr: ${r.output_per_hour.toLocaleString()} ${r.resource} (Speed: ${r.speed_multiplier}x)`).join('<br>') + (data.total_hours_needed ? `<br><b>Total Hours Needed:</b> ${data.total_hours_needed}` : '');
+            } else {
+                resultDiv.textContent = 'Error: ' + data.error;
+            }
+        } catch (err) {
+            resultDiv.textContent = 'Error: ' + err;
+        }
+    });
+</script>
+</body>
+</html> 

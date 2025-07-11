@@ -1,0 +1,5062 @@
+{
+  "minions": {
+    "Cobblestone Minion": {
+      "resource": "Cobblestone",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cobblestone_Minion",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/a/a0/Cobblestone_Minion_I.png/revision/latest/scale-to-width-down/21?cb=20191128042804",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "II",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "III",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "V",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 7,
+          "actions_per_hour": 514,
+          "output_per_action": 1,
+          "output_per_hour": 514
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "X",
+          "time_per_action": 5,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 4.5,
+          "actions_per_hour": 800,
+          "output_per_action": 1,
+          "output_per_hour": 800
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 880,
+          "output_per_action": 1,
+          "output_per_hour": 880
+        }
+      ]
+    },
+    "Diamond Minion": {
+      "resource": "Diamond",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Diamond_Minion",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/5/5f/Diamond_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20210116030707",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ]
+    },
+    "Wheat Minion": {
+      "resource": "Wheat",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wheat_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "II",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "III",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "V",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 7,
+          "actions_per_hour": 514,
+          "output_per_action": 1,
+          "output_per_hour": 514
+        },
+        {
+          "tier": "X",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 5,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 800,
+          "output_per_action": 1,
+          "output_per_hour": 800
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/e/e2/Wheat_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20210508004257"
+    },
+    "Gold Minion": {
+      "resource": "Gold Ingot",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gold_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/f/f1/Gold_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20210116030720"
+    },
+    "Redstone Minion": {
+      "resource": "Redstone",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Redstone_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/f/f8/Redstone_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20210116030614"
+    },
+    "Emerald Minion": {
+      "resource": "Emerald",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Emerald_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/7/74/Emerald_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20210116030622"
+    },
+    "Lapis Minion": {
+      "resource": "Lapis Lazuli",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lapis_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/8/86/Lapis_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20210116030632"
+    },
+    "Iron Minion": {
+      "resource": "Iron Ingot",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Iron_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/6/6f/Iron_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20210116030753"
+    },
+    "Coal Minion": {
+      "resource": "Coal",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Coal_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/f/f8/Coal_minion.png/revision/latest/scale-to-width-down/185?cb=20190617201445"
+    },
+    "Obsidian Minion": {
+      "resource": "Obsidian",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Obsidian_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/b/b1/Obsidian_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20210116030804"
+    },
+    "End Stone Minion": {
+      "resource": "End Stone",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/End_Stone_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/e/e8/End_Stone_Minion_XI.png/revision/latest/scale-to-width-down/32?cb=20221004093126"
+    },
+    "Clay Minion": {
+      "resource": "Clay",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Clay_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/8/8e/Clay_Minion_I.png/revision/latest/scale-to-width-down/21?cb=20200402103222"
+    },
+    "Snow Minion": {
+      "resource": "Snow",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Snow_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/e/ee/Snow_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20221202000436"
+    },
+    "Potato Minion": {
+      "resource": "Potato",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Potato_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/2/27/Potato_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20210508004133"
+    },
+    "Carrot Minion": {
+      "resource": "Carrot",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Carrot_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/8/87/Carrot_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20210508003849"
+    },
+    "Melon Minion": {
+      "resource": "Melon",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Melon_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/f/fa/Melon_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20210508004030"
+    },
+    "Pumpkin Minion": {
+      "resource": "Pumpkin",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pumpkin_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/0/0e/Pumpkin_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20210508004151"
+    },
+    "Sugar Cane Minion": {
+      "resource": "Sugar Cane",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sugar_Cane_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/0/05/Sugar_Cane_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20210508004243"
+    },
+    "Cactus Minion": {
+      "resource": "Cactus",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cactus_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/2/26/Cactus_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20210607230747"
+    },
+    "Gravel Minion": {
+      "resource": "Gravel",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gravel_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/6/64/Gravel_Minion_XI.png/revision/latest/scale-to-width-down/32?cb=20221004095539"
+    },
+    "Sand Minion": {
+      "resource": "Sand",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sand_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/8/80/Sand_Minion_XI.png/revision/latest/scale-to-width-down/32?cb=20221004105613"
+    },
+    "Glowstone Minion": {
+      "resource": "Glowstone Dust",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Glowstone_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/6/68/Glowstone_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20221004095148"
+    },
+    "Quartz Minion": {
+      "resource": "Nether Quartz",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Quartz_Minion",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/5/53/Minion_Upgrades.png/revision/latest/scale-to-width-down/185?cb=20210629164448",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ]
+    },
+    "Mithril Minion": {
+      "resource": "Mithril",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mithril_Minion",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/e/e5/Mithril_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20210116030440",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ]
+    },
+    "Ice Minion": {
+      "resource": "Ice",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ice_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/6/69/Ice_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20221202000330"
+    },
+    "Zombie Minion": {
+      "resource": "Rotten Flesh",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Zombie_Minion",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/d/dd/Zombie_Minion_XI.png/revision/latest/scale-to-width-down/32?cb=20221004113148",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ]
+    },
+    "Skeleton Minion": {
+      "resource": "Bone",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Skeleton_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/1/10/Skeleton_Minion_XI.png/revision/latest/scale-to-width-down/32?cb=20221004110339"
+    },
+    "Spider Minion": {
+      "resource": "String",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spider_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/9/91/Spider_Minion_I.png/revision/latest/scale-to-width-down/21?cb=20200430172813"
+    },
+    "Enderman Minion": {
+      "resource": "Ender Pearl",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enderman_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/3/3a/Enderman_Minion_XI.png/revision/latest/scale-to-width-down/32?cb=20221004093336"
+    },
+    "Creeper Minion": {
+      "resource": "Gunpowder",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Creeper_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/7/77/Creeper_Minion_XI.png/revision/latest/scale-to-width-down/32?cb=20221004091824"
+    },
+    "Slime Minion": {
+      "resource": "Slimeball",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Slime_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/4/49/Slime_Minion_I.png/revision/latest/scale-to-width-down/21?cb=20200430172821"
+    },
+    "Magma Cube Minion": {
+      "resource": "Magma Cream",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Cube_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/7/7c/Magma_Cube_Minion_I.png/revision/latest/scale-to-width-down/21?cb=20200430172817"
+    },
+    "Blaze Minion": {
+      "resource": "Blaze Rod",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blaze_Minion",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/f/fc/Blaze_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20221004085736",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ]
+    },
+    "Ghast Minion": {
+      "resource": "Ghast Tear",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ghast_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/f/f1/Ghast_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20221004094926"
+    },
+    "Tarantula Minion": {
+      "resource": "String",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Tarantula_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/d/d0/Tarantula_Minion_I.png/revision/latest/scale-to-width-down/21?cb=20200430172814"
+    },
+    "Revenant Minion": {
+      "resource": "Rotten Flesh",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Revenant_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/5/52/Revenant_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20221004105401"
+    },
+    "Voidling Minion": {
+      "resource": "Null Sphere",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Voidling_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 30,
+          "actions_per_hour": 120,
+          "output_per_action": 1,
+          "output_per_hour": 120
+        },
+        {
+          "tier": "II",
+          "time_per_action": 28,
+          "actions_per_hour": 128,
+          "output_per_action": 1,
+          "output_per_hour": 128
+        },
+        {
+          "tier": "III",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "V",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/1/13/Voidling_Minion_XI.png/revision/latest/scale-to-width-down/32?cb=20210604013946"
+    },
+    "Oak Minion": {
+      "resource": "Oak Wood",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Oak_Minion",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/3/32/Oak_Minion_XI.png/revision/latest/scale-to-width-down/32?cb=20221004103405",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ]
+    },
+    "Spruce Minion": {
+      "resource": "Spruce Wood",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spruce_Minion",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/6/62/Spruce_Minion_XI.png/revision/latest/scale-to-width-down/32?cb=20221004111049",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ]
+    },
+    "Birch Minion": {
+      "resource": "Birch Wood",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Birch_Minion",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/3/32/Birch_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20221004085400",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ]
+    },
+    "Dark Oak Minion": {
+      "resource": "Dark Oak Wood",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dark_Oak_Minion",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/a/ab/Dark_Oak_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20221004092127",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ]
+    },
+    "Acacia Minion": {
+      "resource": "Acacia Wood",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Acacia_Minion",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/3/35/Acacia_Minion_XI.png/revision/latest/scale-to-width-down/32?cb=20221004084706",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ]
+    },
+    "Jungle Minion": {
+      "resource": "Jungle Wood",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jungle_Minion",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/d/d6/Jungle_Minion_XI.png/revision/latest/scale-to-width-down/32?cb=20221004101041",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 26,
+          "actions_per_hour": 138,
+          "output_per_action": 1,
+          "output_per_hour": 138
+        },
+        {
+          "tier": "II",
+          "time_per_action": 24,
+          "actions_per_hour": 150,
+          "output_per_action": 1,
+          "output_per_hour": 150
+        },
+        {
+          "tier": "III",
+          "time_per_action": 22,
+          "actions_per_hour": 163,
+          "output_per_action": 1,
+          "output_per_hour": 163
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 20,
+          "actions_per_hour": 180,
+          "output_per_action": 1,
+          "output_per_hour": 180
+        },
+        {
+          "tier": "V",
+          "time_per_action": 18,
+          "actions_per_hour": 200,
+          "output_per_action": 1,
+          "output_per_hour": 200
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 16,
+          "actions_per_hour": 225,
+          "output_per_action": 1,
+          "output_per_hour": 225
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 14,
+          "actions_per_hour": 257,
+          "output_per_action": 1,
+          "output_per_hour": 257
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 12,
+          "actions_per_hour": 300,
+          "output_per_action": 1,
+          "output_per_hour": 300
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 10,
+          "actions_per_hour": 360,
+          "output_per_action": 1,
+          "output_per_hour": 360
+        },
+        {
+          "tier": "X",
+          "time_per_action": 8,
+          "actions_per_hour": 450,
+          "output_per_action": 1,
+          "output_per_hour": 450
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 6,
+          "actions_per_hour": 600,
+          "output_per_action": 1,
+          "output_per_hour": 600
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 4,
+          "actions_per_hour": 720,
+          "output_per_action": 1,
+          "output_per_hour": 720
+        }
+      ]
+    },
+    "Cow Minion": {
+      "resource": "Raw Beef",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cow_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/6/69/Cow_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20210508004013"
+    },
+    "Sheep Minion": {
+      "resource": "Mutton",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sheep_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/8/86/Sheep_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20210508004222"
+    },
+    "Pig Minion": {
+      "resource": "Porkchop",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pig_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/7/7d/Pig_Minion_I.png/revision/latest/scale-to-width-down/21?cb=20200430172823"
+    },
+    "Rabbit Minion": {
+      "resource": "Raw Rabbit",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rabbit_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/5/5e/Rabbit_Minion_XII.png/revision/latest/scale-to-width-down/32?cb=20210508004206"
+    },
+    "Chicken Minion": {
+      "resource": "Raw Chicken",
+      "tiers": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "VI",
+        "VII",
+        "VIII",
+        "IX",
+        "X",
+        "XI",
+        "XII"
+      ],
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Chicken_Minion",
+      "production": [
+        {
+          "tier": "I",
+          "time_per_action": 29,
+          "actions_per_hour": 124,
+          "output_per_action": 1,
+          "output_per_hour": 124
+        },
+        {
+          "tier": "II",
+          "time_per_action": 27,
+          "actions_per_hour": 133,
+          "output_per_action": 1,
+          "output_per_hour": 133
+        },
+        {
+          "tier": "III",
+          "time_per_action": 25,
+          "actions_per_hour": 144,
+          "output_per_action": 1,
+          "output_per_hour": 144
+        },
+        {
+          "tier": "IV",
+          "time_per_action": 23,
+          "actions_per_hour": 156,
+          "output_per_action": 1,
+          "output_per_hour": 156
+        },
+        {
+          "tier": "V",
+          "time_per_action": 21,
+          "actions_per_hour": 171,
+          "output_per_action": 1,
+          "output_per_hour": 171
+        },
+        {
+          "tier": "VI",
+          "time_per_action": 19,
+          "actions_per_hour": 189,
+          "output_per_action": 1,
+          "output_per_hour": 189
+        },
+        {
+          "tier": "VII",
+          "time_per_action": 17,
+          "actions_per_hour": 212,
+          "output_per_action": 1,
+          "output_per_hour": 212
+        },
+        {
+          "tier": "VIII",
+          "time_per_action": 15,
+          "actions_per_hour": 240,
+          "output_per_action": 1,
+          "output_per_hour": 240
+        },
+        {
+          "tier": "IX",
+          "time_per_action": 13,
+          "actions_per_hour": 277,
+          "output_per_action": 1,
+          "output_per_hour": 277
+        },
+        {
+          "tier": "X",
+          "time_per_action": 11,
+          "actions_per_hour": 327,
+          "output_per_action": 1,
+          "output_per_hour": 327
+        },
+        {
+          "tier": "XI",
+          "time_per_action": 9,
+          "actions_per_hour": 400,
+          "output_per_action": 1,
+          "output_per_hour": 400
+        },
+        {
+          "tier": "XII",
+          "time_per_action": 7,
+          "actions_per_hour": 480,
+          "output_per_action": 1,
+          "output_per_hour": 480
+        }
+      ],
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/8/8a/Chicken_Minion_I.png/revision/latest/scale-to-width-down/21?cb=20200430172824"
+    }
+  },
+  "upgrades": {
+    "Enchanted Lava Bucket": {
+      "effect": "+25% minion speed",
+      "multiplier": 1.25,
+      "stackable": true,
+      "type": "fuel",
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Lava_Bucket",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/9/9f/Enchanted_Lava_Bucket.png/revision/latest/scale-to-width-down/32?cb=20210609013530"
+    },
+    "Lava Bucket": {
+      "effect": "+25% minion speed",
+      "multiplier": 1.25,
+      "stackable": true,
+      "type": "fuel",
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lava_Bucket",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/9/9f/Enchanted_Lava_Bucket.png/revision/latest/scale-to-width-down/32?cb=20210609013530"
+    },
+    "Hamster Wheel": {
+      "effect": "+50% minion speed",
+      "multiplier": 1.5,
+      "stackable": true,
+      "type": "fuel",
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Hamster_Wheel",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/e/eb/Enchanted_Wooden_Trapdoor.png/revision/latest/scale-to-width-down/32?cb=20210624181142"
+    },
+    "Foul Flesh": {
+      "effect": "+90% minion speed",
+      "multiplier": 1.9,
+      "stackable": true,
+      "type": "fuel",
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Foul_Flesh",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/4/4f/Charcoal.png/revision/latest/scale-to-width-down/32?cb=20210615223217"
+    },
+    "Catalyst": {
+      "effect": "+300% minion speed",
+      "multiplier": 4.0,
+      "stackable": true,
+      "type": "fuel",
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Catalyst",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/8/8e/Enchanted_Nether_Star.png/revision/latest/scale-to-width-down/32?cb=20210609200735"
+    },
+    "Solar Panel": {
+      "effect": "+25% minion speed (day only)",
+      "multiplier": 1.25,
+      "stackable": true,
+      "type": "fuel",
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Solar_Panel",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/7/76/Enchanted_Daylight_Sensor.png/revision/latest/scale-to-width-down/32?cb=20210613161420"
+    },
+    "Plasma Bucket": {
+      "effect": "+35% minion speed",
+      "multiplier": 1.35,
+      "stackable": true,
+      "type": "fuel",
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Plasma_Bucket",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/9/9f/Enchanted_Lava_Bucket.png/revision/latest/scale-to-width-down/32?cb=20210609013530"
+    },
+    "Minion Expander": {
+      "effect": "+5% minion speed",
+      "multiplier": 1.05,
+      "stackable": true,
+      "type": "upgrade",
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Expander",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/a/ae/Enchanted_Command_Block.png/revision/latest/scale-to-width-down/32?cb=20210612175850"
+    },
+    "Flycatcher": {
+      "effect": "+20% minion speed",
+      "multiplier": 1.2,
+      "stackable": true,
+      "type": "upgrade",
+      "wiki": "https://hypixel-skyblock.fandom.com/wiki/Flycatcher",
+      "icon": "https://static.wikia.nocookie.net/hypixel-skyblock/images/f/f8/Web.png/revision/latest/scale-to-width-down/32?cb=20191005190514"
+    }
+  }
+}
