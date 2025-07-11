@@ -7,4 +7,5 @@
 !templates/
 !static/
 !Dockerfile
-!.gitignore 
+!.gitignore
+!requirements.txt 
